@@ -12,3 +12,4 @@ console.log("MIN SAFE: " + Number.MIN_SAFE_INTEGER);
 console.log("MIN: " + Number.MIN_VALUE);
 
 let num1 = 1n;
+let;
